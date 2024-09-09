@@ -15,7 +15,7 @@ This project was first done and finished in a different repo to this one (42 cam
 
 In the following pdf you can find the project requirements as specified by 42 campus: [README_PIPEX.pdf](https://github.com/Alvicina/PIPEX/files/15310103/README_PIPEX.pdf)
 
-The following snapshot if proof that the project was succesfully done:
+The following snapshot is proof that the project was succesfully done:
 ![Sin título](https://github.com/user-attachments/assets/b08f5af1-f462-4176-90ce-e1eb34cb5cea)
 
 
